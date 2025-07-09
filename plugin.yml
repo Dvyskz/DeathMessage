@@ -1,0 +1,6 @@
+name: DeathMessage
+main: Dvyskz\Main
+version: 1.0.0
+api: 5.0.0
+author: Dvyskz
+description: Un Title que aparece cuando mueres
